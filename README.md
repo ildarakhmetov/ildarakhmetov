@@ -5,4 +5,4 @@
 * Writing code since 1997
 * Teaching and training since 2005
 
-Currently, I teach at the University of Alberta.
+Currently, I teach at Northeastern University (Vancouver campus).
